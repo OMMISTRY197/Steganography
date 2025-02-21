@@ -27,8 +27,8 @@ pip install opencv-python numpy cryptography tkinter
 ### Running the Project
 1. **Clone the repository**:
    ```bash
-   git clone <your-github-repo-link>
-   cd <repository-name>
+   git clone https://github.com/OMMISTRY197/Steganography.git
+   cd Steganography
    ```
 2. **Run the script**:
    ```bash
@@ -65,4 +65,4 @@ This project is licensed under the **MIT License**.
 Feel free to **fork the repository**, **open issues**, and **submit pull requests**.
 
 📧 Contact: ommistry1976@gmail.com  
-🔗 GitHub Repository: [Your GitHub Link]
+🔗 GitHub Repository: https://github.com/OMMISTRY197/Steganography.git
